@@ -5,7 +5,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asfarul&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asfarul&theme=vue-dark)](https://git.io/streak-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfarul&layout=compact&theme=vue-dark" alt="My Github Stats">
 <img src="https://github-readme-stats.vercel.app/api?username=asfarul&show_icons=true&theme=vue-dark" alt="Asfarul's Github Stats">
 
