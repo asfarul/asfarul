@@ -29,7 +29,7 @@
   <img align="left" alt="Asfarul's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="https://id.linkedin.com/in/asfarul-haq-2271a4112/">
+<a href="https://www.linkedin.com/in/asfarul-haq-476b5b1ab/">
   <img align="left" alt="Asfarul's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
