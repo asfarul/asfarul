@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on Flutter Mobile Development
 - 🌱 I’m currently learning Laravel for Backend Development
 - ⚡ Fun fact: Dunno la
+
 ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfarul&layout=compact&theme=chartreuse-dark" alt="My Github Stats">
@@ -41,6 +42,10 @@
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2DFExFNWYOwQMZy6wUeCxX?si=s1Ndgj8hTg-r8zLlvRgv1Q) [![PPOP Music](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/58bZKfJFpUl2CwWET1QJ3X?si=259YV8_VRS-IKHsFZMmPTQ)
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asfarul&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=vue-dark)](https://git.io/streak-stats)
 
 ---
 
