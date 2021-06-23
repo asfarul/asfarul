@@ -5,10 +5,19 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asfarul&theme=vue-dark)](https://git.io/streak-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asfarul&layout=compact&theme=vue-dark" alt="My Github Stats">
-<img src="https://github-readme-stats.vercel.app/api?username=asfarul&show_icons=true&theme=vue-dark" alt="Asfarul's Github Stats">
-
+<p align="center">
+<a href="https://github.com/Asfarul/"> 
+    <img width=500 src="https://github-readme-stats.vercel.app/api?username=Asfarul&show_icons=true&include_all_commits=true&theme=vue-dark"/>
+</a>
+   <br/>
+  <a href="https://github.com/Asfarul/"> 
+    <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfarul&count_private=true&layout=compact&theme=vue-dark"/>
+  </a>
+   <br/>
+  <a href="https://github.com/Asfarul/"> 
+    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Asfarul&theme=vue-dark"/>
+  </a>
+</p>
 
 ---
 
