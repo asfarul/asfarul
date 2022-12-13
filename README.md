@@ -1,6 +1,5 @@
 ### Hi, I'm Asfarul (🇮🇩) 👋 
-- 🔭 I’m currently working on Flutter Mobile Development
-- 🌱 I’m currently learning Laravel for Backend Development
+- 🔭 I’m currently working on Flutter Mobile and Laravel Backend Development
 - ⚡ Fun fact: You know la
 
 ---
